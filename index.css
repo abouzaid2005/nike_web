@@ -1,0 +1,27 @@
+#logo{
+  width: 70px;
+  height: 45px;
+}
+header{
+  margin-left: 90%;
+  display: flex;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.raw{
+    display: flex;
+ justify-content: space-between;
+}
+#nike{
+  text-align: center;
+    border:1px black solid;
+    color:black;
+    background-color:rgb(254, 188, 66);
+    margin:3px ;
+    padding: 6px;
+    margin-left: 180px;
+  
+}
+.d-flex{padding-top: 40px;}
